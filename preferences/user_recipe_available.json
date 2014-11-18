@@ -140,7 +140,7 @@
     },
     "Mgenitalium": {
         "0.1": {
-            "setupfile": "D:\\LabMembers\\Interns\\URAP\\SungWon\\Sung_database_1.0.0\\recipes\\Mgenitalium_0.0.1.xml",
+            "setupfile": "autoPackDataBasePath\\recipes\\Mgenitalium_0.0.1.xml",
             "wrkdir": "autopackdir/autoFillRecipeScripts/Mgenitalium",
             "resultfile": "autoPACKserver/data/Mycoplasma/results/MgenitaliumPackResult.json"
         }

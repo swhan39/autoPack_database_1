@@ -41,13 +41,15 @@
             <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/HIV1_ENV_4nco_0_1_2.xml"/>
             <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/HIV1_VPU_Hyb_0_1_0.xml"/>
             <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/HIV1_HLA_1dlh_0_1_0.xml"/>
+            <ingredient include="C:\Users\Owner\Documents\autoPack_database_1\recipes\Mgenitalium_rbsB_2gx6_0_1_0.xml"/>
         </surface>
         <interior>
-            <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/HIV1_PR_7hvp_0_1_0.xml"/>
-            <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/HIV1_IN_1ex4_0_1_0.xml"/>
-            <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/HIV1_RT_3hvt_0_1_0.xml"/>
-            <ingredient include="D:\LabMembers\Interns\URAP\SungWon\Sung_database_1.0.0\recipes\Mgenitalium_ecoD_1ydx_0_1_0.xml"/>
-            <ingredient include="D:\LabMembers\Interns\URAP\SungWon\Sung_database_1.0.0\recipes\Mgenitalium_nusB_1q8c_0_1_0.xml"/>
+            <ingredient include="C:\Users\Owner\Documents\autoPack_database_1\recipes\Mgenitalium_ecoD_1ydx_0_1_0.xml"/>
+            <ingredient include="C:\Users\Owner\Documents\autoPack_database_1\recipes\Mgenitalium_nusB_1q8c_0_1_0.xml"/>
+            <ingredient include="C:\Users\Owner\Documents\autoPack_database_1\recipes\Mgenitalium_pth_2pth_0_1_0.xml"/>
+            <ingredient include="C:\Users\Owner\Documents\autoPack_database_1\recipes\Mgenitalium_tmk_5tmp_0_1_0.xml"/>
+            <ingredient include="C:\Users\Owner\Documents\autoPack_database_1\recipes\Mgenitalium_cmk_2feo_0_1_0.xml"/>
+            <ingredient include="C:\Users\Owner\Documents\autoPack_database_1\recipes\Mgenitalium_gmk_2f3t_0_1_0.xml"/>
         </interior>
     </compartment>
     
