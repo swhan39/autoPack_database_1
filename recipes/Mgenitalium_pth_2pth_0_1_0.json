@@ -5,9 +5,9 @@
  "useOrientBias":false,
  "rotRange":6.2831,
  "gradient":"",
- "meshFile":"C:\\Users\\Owner\\Documents\\autoPack_database_1\\geometries\\Mgenitalium_pth_2pth_0_1_0.dae",
+ "meshFile":"D:/LabMembers/Interns/URAP/SungWon/Sung_database_1.0.0/geometries/Mgenitalium_pth_2pth_0_1_0.dae",
  "coordsystem":"left",
- "sphereFile":"C:\\Users\\Owner\\Documents\\autoPack_database_1\\collisionTrees\\Mgenitalium_pth_2pth_0_1_0.sph",
+ "sphereFile":"D:/LabMembers/Interns/URAP/SungWon/Sung_database_1.0.0/collisionTrees/Mgenitalium_pth_2pth_0_1_0.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
