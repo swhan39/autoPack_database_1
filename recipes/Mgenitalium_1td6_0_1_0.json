@@ -1,13 +1,13 @@
 {
  "overwrite_nbMol_value":100,
  "nbJitter":10,
- "molarity":0,
+ "molarity":2.90e-05,
  "useOrientBias":false,
  "rotRange":6.2831,
  "gradient":"",
- "meshFile":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_VIF_Modbase_0_1_0.dae",
+ "meshFile":"C:/Users/Owner/Documents/autoPack_database_1/geometries/Mgenitalium_1td6_0_1_0.dae",
  "coordsystem":"left",
- "sphereFile":"autoPACKserver/autoPACK_database_1.0.0/collisionTrees/HIV1_VIF_Modbase_0_1_0.sph",
+ "sphereFile":"C:/Users/Owner/Documents/autoPack_database_1/collisionTrees/Mgenitalium_1td6_0_1_0.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
@@ -25,7 +25,7 @@
   0
  ],
  "properties":{},
- "name":"HIV1_VIF_Modbase_0_1_0",
+ "name":"Mgenitalium_1td6_0_1_0",
  "partners_name":[],
  "nbMol":100,
  "weight":0.2,
@@ -40,6 +40,6 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"7hvp",
+ "pdb":"1td6",
  "useRotAxis":false
 }

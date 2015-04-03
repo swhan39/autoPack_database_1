@@ -1,13 +1,13 @@
 {
- "overwrite_nbMol_value":157,
+ "overwrite_nbMol_value":100,
  "nbJitter":10,
- "molarity":0,
+ "molarity":3.18e-05,
  "useOrientBias":false,
  "rotRange":6.2831,
  "gradient":"",
- "meshFile":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_VPR_1esx_0_1_0.dae",
+ "meshFile":"C:/Users/Owner/Documents/autoPack_database_1/geometries/Mgenitalium_1t71_0_1_0.dae",
  "coordsystem":"left",
- "sphereFile":"autoPACKserver/autoPACK_database_1.0.0/collisionTrees/HIV1_VPR_1esx_0_1_0.sph",
+ "sphereFile":"C:/Users/Owner/Documents/autoPack_database_1/collisionTrees/Mgenitalium_1t71_0_1_0.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
@@ -16,7 +16,7 @@
   1
  ],
  "perturbAxisAmplitude":0.1,
- "encapsulatingRadius":48,
+ "encapsulatingRadius":38,
  "partners_position":[],
  "isAttractor":false,
  "principalVector":[
@@ -25,9 +25,9 @@
   0
  ],
  "properties":{},
- "name":"HIV1_VPR_1esx_0_1_0",
+ "name":"Mgenitalium_1t71_0_1_0",
  "partners_name":[],
- "nbMol":157,
+ "nbMol":100,
  "weight":0.2,
  "orientBiasRotRangeMax":3.1415927,
  "packingMode":"random",
@@ -40,6 +40,6 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"7hvp",
+ "pdb":"1t71",
  "useRotAxis":false
 }

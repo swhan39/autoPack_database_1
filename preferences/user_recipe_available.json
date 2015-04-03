@@ -41,8 +41,12 @@
     
     "Mgenitalium": {
         "0.1": {
-            "setupfile": "D:/LabMembers/Interns/URAP/SungWon/Sung_database_1.0.0/recipes/Mgenitalium_0.0.1.json",
-            "resultfile": "autoPACKserver/data/Mycoplasma/results/MgenitaliumPackResult.json"
+            "setupfile": "C:/Users/Owner/Documents/autoPack_database_1/recipes/Mgenitalium_0.0.1.json",
+            "resultfile": "autoPACKserver/data/Mycoplasma/results/MgenitaliumPackResult_0.0.1.apr.json"
+        },
+         "0.2": {
+            "setupfile": "C:/Users/Owner/Documents/autoPack_database_1/recipes/Mgenitalium_0.0.2.json",
+            "resultfile": "autoPACKserver/data/Mycoplasma/results/MgenitaliumPackResult_0.0.2.apr.json"
         }
     }
     

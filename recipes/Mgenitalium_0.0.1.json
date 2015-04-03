@@ -1,4 +1,4 @@
-{
+ {
  "recipe":{
   "version":"0.0.1",
   "name":"Mgenitalium"
@@ -71,32 +71,36 @@
  },
  "cytoplasme":{
    "ingredients":{
-    "HIV1_VPR_1esx_0_1_0":{
-     "include":"HIV1_VPR_1esx_0_1_0.json",
-     "name":"HIV1_VPR_1esx_0_1_0"
-    },
-    "HIV1_VIF_Modbase_0_1_0":{
-     "include":"HIV1_VIF_Modbase_0_1_0.json",
-     "name":"HIV1_VIF_Modbase_0_1_0"
-    },
     "Mgenitalium_potd_1pot_0_1_0":{
      "include":"Mgenitalium_potd_1pot_0_1_0.json",
      "name":"Mgenitalium_potd_1pot_0_1_0"
+    },
+    "Mgenitalium_4nzt_0_1_0":{
+     "include":"Mgenitalium_4nzt_0_1_0.json",
+     "name":"Mgenitalium_4nzt_0_1_0"
+    },
+    "Mgenitalium_phnD_3myu_0_1_0":{
+     "include":"Mgenitalium_phnD_3myu_0_1_0.json",
+     "name":"Mgenitalium_phnD_3myu_0_1_0"
     }
    }
   },
   "compartments":{
    "Mgenitalium_membrane_Pack_t0_0_1_0":{
-    "geom":"D:/LabMembers/Interns/URAP/SungWon/Sung_database_1.0.0/geometries/Mgenitalium_membrane_Pack_t0_0_1_0.dae",
+    "geom":"C:/Users/Owner/Documents/autoPack_database_1/geometries/Mgenitalium_membrane_Pack_t0_0_1_0.dae",
     "name":"Mgenitalium_membrane_Pack_t0_0_1_0",
     "rep":"Mgenitalium_membrane_Rep_t0_0_1_0",
-    "rep_file":"D:/LabMembers/Interns/URAP/SungWon/Sung_database_1.0.0/geometries/Mgenitalium_membrane_Rep_t0_0_1_0.dae",
+    "rep_file":"C:/Users/Owner/Documents/autoPack_database_1/geometries/Mgenitalium_membrane_Rep_t0_0_1_0.dae",
     "surface":{
      "ingredients":{
       "Mgenitalium_rbsB_2gx6_0_1_0":{
        "include":"Mgenitalium_rbsB_2gx6_0_1_0.json",
        "name":"Mgenitalium_rbsB_2gx6_0_1_0"
-			}
+			},
+      "Mgenitalium_yihN_3hfx_0_1_0":{
+       "include":"Mgenitalium_yihN_3hfx_0_1_0.json",
+       "name":"Mgenitalium_yihN_3hfx_0_1_0"
+      }
 		 }
 		},
 		"interior":{
@@ -136,8 +140,28 @@
 			"Mgenitalium_cmk_2feo_0_1_0":{
 			 "include":"Mgenitalium_cmk_2feo_0_1_0.json",
 			 "name":"Mgenitalium_cmk_2feo_0_1_0"
+      },
+      "Mgenitalium_hprK_1knx_0_1_0":{
+       "include":"Mgenitalium_hprK_1knx_0_1_0.json",
+       "name":"Mgenitalium_hprK_1knx_0_1_0"
+      },
+      "Mgenitalium_mraZ_1n0e_0_1_0":{
+       "include":"Mgenitalium_mraZ_1n0e_0_1_0.json",
+       "name":"Mgenitalium_mraZ_1n0e_0_1_0"
+      },
+      "Mgenitalium_1t71_0_1_0":{
+       "include":"Mgenitalium_1t71_0_1_0.json",
+       "name":"Mgenitalium_1t71_0_1_0"
+      },
+      "Mgenitalium_1td6_0_1_0":{
+       "include":"Mgenitalium_1td6_0_1_0.json",
+       "name":"Mgenitalium_1td6_0_1_0"
+		  },
+      "Mgenitalium_1zxj_0_1_0":{
+       "include":"Mgenitalium_1zxj_0_1_0.json",
+       "name":"Mgenitalium_1zxj_0_1_0"
       }
-		 }
+     }
 		}
 	 }
   }
