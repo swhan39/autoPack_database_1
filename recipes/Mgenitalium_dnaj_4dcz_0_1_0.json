@@ -1,5 +1,5 @@
 {
- "overwrite_nbMol_value":100,
+ "overwrite_nbMol_value":0,
  "nbJitter":10,
  "molarity":1.47e-05,
  "useOrientBias":false,
@@ -27,7 +27,7 @@
  "properties":{},
  "name":"Mgenitalium_dnaj_4dcz_0_1_0",
  "partners_name":[],
- "nbMol":100,
+ "nbMol":0,
  "weight":0.2,
  "orientBiasRotRangeMax":3.1415927,
  "packingMode":"gradient",

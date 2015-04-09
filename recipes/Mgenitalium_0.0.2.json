@@ -48,7 +48,7 @@
     150,
     0
    ],
-   "radius":5000,
+   "radius":4600,
    "description":"",
    "weight_mode":"linear",
    "pick_mode":"rnd",
@@ -100,6 +100,22 @@
       "Mgenitalium_yihN_3hfx_0_1_0":{
        "include":"Mgenitalium_yihN_3hfx_0_1_0.json",
        "name":"Mgenitalium_yihN_3hfx_0_1_0"
+      },
+      "Mgenitalium_1tm9_0_1_0":{
+       "include":"Mgenitalium_1tm9_0_1_0.json",
+       "name":"Mgenitalium_1tm9_0_1_0"
+      },
+      "Mgenitalium_fruA_2kyr_0_1_0":{
+       "include":"Mgenitalium_fruA_2kyr_0_1_0.json",
+       "name":"Mgenitalium_fruA_2kyr_0_1_0"
+      },
+      "Mgenitalium_nox_2bc0_0_1_0":{
+       "include":"Mgenitalium_nox_2bc0_0_1_0.json",
+       "name":"Mgenitalium_nox_2bc0_0_1_0"
+      },
+      "Mgenitalium_plsC_1iuq_0_1_0":{
+       "include":"Mgenitalium_plsC_1iuq_0_1_0.json",
+       "name":"Mgenitalium_plsC_1iuq_0_1_0"
       }
 		 }
 		},
@@ -172,6 +188,14 @@
       "Mgenitalium_1sbq_0_1_0":{
        "include":"Mgenitalium_1sbq_0_1_0.json",
        "name":"Mgenitalium_1sbq_0_1_0"
+      },
+      "Mgenitalium_2i15_0_1_0":{
+       "include":"Mgenitalium_2i15_0_1_0.json",
+       "name":"Mgenitalium_2i15_0_1_0"
+      },
+      "Mgenitalium_p200_1bhg_0_1_0":{
+       "include":"Mgenitalium_p200_1bhg_0_1_0.json",
+       "name":"Mgenitalium_p200_1bhg_0_1_0"
       }
      }
 		}
