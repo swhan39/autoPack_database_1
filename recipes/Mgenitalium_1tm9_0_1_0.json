@@ -1,7 +1,7 @@
 {
  "overwrite_nbMol_value":0,
  "nbJitter":10,
- "molarity":6.36e-05,
+ "molarity":0.0484,
  "useOrientBias":false,
  "rotRange":6.2831,
  "gradient":"",
