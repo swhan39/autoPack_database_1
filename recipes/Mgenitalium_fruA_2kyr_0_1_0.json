@@ -11,8 +11,8 @@
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
-  0.2,
-  0.2,
+  1,
+  1,
   0
  ],
  "perturbAxisAmplitude":0.1,

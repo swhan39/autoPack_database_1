@@ -116,6 +116,10 @@
       "Mgenitalium_plsC_1iuq_0_1_0":{
        "include":"Mgenitalium_plsC_1iuq_0_1_0.json",
        "name":"Mgenitalium_plsC_1iuq_0_1_0"
+      },
+      "Mgenitalium_ftsH_1lv7_0_1_0":{
+       "include":"Mgenitalium_ftsH_1lv7_0_1_0.json",
+       "name":"Mgenitalium_ftsH_1lv7_0_1_0"
       }
 		 }
 		},
