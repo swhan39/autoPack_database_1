@@ -4,8 +4,8 @@
         <contributor>
             <authoring_tool>CINEMA4D 16.038 COLLADA Exporter</authoring_tool>
         </contributor>
-        <created>2015-05-16T08:51:48Z</created>
-        <modified>2015-05-16T08:51:48Z</modified>
+        <created>2015-05-16T09:02:26Z</created>
+        <modified>2015-05-16T09:02:26Z</modified>
         <unit meter="0.01" name="centimeter"/>
         <up_axis>Y_UP</up_axis>
     </asset>
@@ -15,7 +15,7 @@
                 <technique sid="COMMON">
                     <blinn>
                         <diffuse>
-                            <color>0.836735 0.463431 0.290437 1</color>
+                            <color>0.887755 0.341284 0.0880418 1</color>
                         </diffuse>
                     </blinn>
                 </technique>
